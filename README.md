@@ -7,4 +7,4 @@ StayBooking: An online stay rental application based on React and Spring Boot
 • Implemented token-based server side user authentication based on Spring Security framework.
 • Deployed backend services to Google App Engine for better scalability and reliability.
 
-e.g. Passwords and keys are hidden in this repository.
+e.g. Passwords and keys are hidden in this repository for security concerns.
